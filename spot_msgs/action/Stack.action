@@ -1,0 +1,6 @@
+string block
+string location
+---
+bool stacked
+---
+bool stacking
