@@ -1,0 +1,10 @@
+/home/xing/my_unitree_a1/src/a1_sdk/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/xing/my_unitree_a1/src/a1_sdk/cmake-build-debug/CMakeFiles/install/local.dir
+/home/xing/my_unitree_a1/src/a1_sdk/cmake-build-debug/CMakeFiles/install.dir
+/home/xing/my_unitree_a1/src/a1_sdk/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/xing/my_unitree_a1/src/a1_sdk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xing/my_unitree_a1/src/a1_sdk/cmake-build-debug/CMakeFiles/uninstall.dir
+/home/xing/my_unitree_a1/src/a1_sdk/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xing/my_unitree_a1/src/a1_sdk/cmake-build-debug/CMakeFiles/a1_sdk_uninstall.dir
+/home/xing/my_unitree_a1/src/a1_sdk/cmake-build-debug/CMakeFiles/robot_joint.dir
+/home/xing/my_unitree_a1/src/a1_sdk/cmake-build-debug/CMakeFiles/test.dir
