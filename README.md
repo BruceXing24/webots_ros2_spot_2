@@ -3,7 +3,7 @@
 This is a ROS 2 package to simulate the Boston Dynamics spot in [webots](https://cyberbotics.com/). Spot is able to walk around, to sit, standup and lie down. We also attached some sensors on spot, like a kincet and a 3D laser.
 The world contains apriltags, a red line to test lane follower and soon objects for manipulation tasks.
 
-![spot_UR3](https://fh-aachen.sciebo.de/s/zDZLpVTjPWLzt7x/download)
+<img src="media/pickandplace.gif" alt="Image" width="70%">
 
 ## Prerequisites
 
